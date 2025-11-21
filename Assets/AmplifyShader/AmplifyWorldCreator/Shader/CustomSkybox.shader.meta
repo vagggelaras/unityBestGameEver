@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 923b9cf3e9954edd82dcc80b12aeb17a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Shader/CustomSkybox.shader
+  uploadId: 350170

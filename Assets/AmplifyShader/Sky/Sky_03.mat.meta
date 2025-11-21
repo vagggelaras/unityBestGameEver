@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20ad13aae2d50f7499e1423acff89a3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/Sky/Sky_03.mat
+  uploadId: 350170

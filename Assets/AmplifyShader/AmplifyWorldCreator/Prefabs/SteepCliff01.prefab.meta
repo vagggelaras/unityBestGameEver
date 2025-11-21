@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6772f958850e42c459bc0952b71e8fa6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Prefabs/SteepCliff01.prefab
+  uploadId: 350170

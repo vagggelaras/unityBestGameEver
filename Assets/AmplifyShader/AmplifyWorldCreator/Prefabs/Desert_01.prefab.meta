@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd5050a69efea484b9c6521d32db4d49
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Prefabs/Desert_01.prefab
+  uploadId: 350170

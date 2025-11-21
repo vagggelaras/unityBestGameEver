@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45cbe06b78768274ba04b91507fa1b97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/Demo/01.FrozenLand/LightingData.asset
+  uploadId: 350170

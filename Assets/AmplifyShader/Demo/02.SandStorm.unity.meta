@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dceb3e9444b84894ab4c518fe8f6f4c6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/Demo/02.SandStorm.unity
+  uploadId: 350170

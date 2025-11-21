@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35ed847d923e86942b9eb53fe7c4d11d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Prefabs/IceMountain_01.prefab
+  uploadId: 350170

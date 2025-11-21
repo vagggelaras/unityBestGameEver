@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d95ae8da9bcb924789c6a007987e8f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Mountains/SteepCliff_01/SteepCliff.mat
+  uploadId: 350170

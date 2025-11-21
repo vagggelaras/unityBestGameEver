@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb7a0dccb7d97724aac0ac4626e9ce64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Prefabs/SandStorm01.prefab
+  uploadId: 350170

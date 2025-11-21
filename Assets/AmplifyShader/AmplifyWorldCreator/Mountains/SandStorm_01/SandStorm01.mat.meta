@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f99f547b18f2551478e4257888b739e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160110
+  packageName: World Creator Shader
+  packageVersion: 1.0
+  assetPath: Assets/AmplifyShader/AmplifyWorldCreator/Mountains/SandStorm_01/SandStorm01.mat
+  uploadId: 350170
